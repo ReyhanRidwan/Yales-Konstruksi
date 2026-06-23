@@ -1,0 +1,6 @@
+{
+  "name": "Yales Konstruksi",
+  "description": "Website kontraktor profesional modern PT Yales Ultima Karya dengan kalkulator RAB interaktif dan sistem kualifikasi lead terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
